@@ -8,6 +8,13 @@
 
 ### Prazo para entrega: 17-junho-2026
 
+## **REGRAS IMPORTANTES**
+
+> [!CAUTION]
+> - Uso de IA: você pode usar ferramentas de IA livremente, **exceto para escrever o relatório de entrega**
+> - Colaboração com colegas: você pode conversar com outros colegas e trocar ideias, mas **não podem fazer compartilhamento e troca de arquivos (prompts, código, imagens, etc.)**
+> - **Não modifique** os arquivos `README.md` e `TAREFAS.md`, para evitar conflitos caso o professor tenha que atualizar as instruções da atividade
+
 ## Sugestão de ferramenta
 
 Você é livre para utilizar qualquer ferramenta que queira usar, **desde que seja baseada em alguma linguagem de programação**. Seguem algumas sugestões:
@@ -23,10 +30,3 @@ https://colab.research.google.com/github/cgvis-inf-ufrgs/cgvis-lab3-visualizacao
 Você também pode abrir um notebook em um repositório github privado seu, veja instruções em:
 
 https://colab.research.google.com/github/googlecolab/colabtools/blob/main/notebooks/colab-github-demo.ipynb
-
-## **REGRAS IMPORTANTES**
-
-> [!CAUTION]
-> - Uso de IA: você pode usar ferramentas de IA livremente, **exceto para escrever o relatório de entrega**
-> - Colaboração com colegas: você pode conversar com outros colegas e trocar ideias, mas **não podem fazer compartilhamento e troca de arquivos (prompts, código, imagens, etc.)**
-> - **Não modifique** os arquivos `README.md` e `TAREFAS.md`, para evitar conflitos caso o professor tenha que atualizar as instruções da atividade

@@ -38,3 +38,7 @@ https://colab.research.google.com/github/cgvis-inf-ufrgs/cgvis-lab3-visualizacao
 Você também pode abrir um notebook em um repositório GitHub privado seu, veja instruções em:
 
 https://colab.research.google.com/github/googlecolab/colabtools/blob/main/notebooks/colab-github-demo.ipynb
+
+### Container local com Python + R + jupyter lab + vscode web + Rstudio
+
+Siga as instruções em https://github.com/cgvis-inf-ufrgs/cgvis-dev-env

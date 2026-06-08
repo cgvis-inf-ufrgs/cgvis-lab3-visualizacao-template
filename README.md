@@ -16,6 +16,14 @@ Você é livre para utilizar qualquer ferramenta que queira usar, **desde que se
 
 O mais simples é utilizar notebooks `ipynb` através do Google Colaboratory ( https://colab.research.google.com/ ). Suporta notebooks em linguagem Python e também R, com várias bibliotecas já instaladas. Também, possui a vantagem e ter integrado o Gemini para auxiliar da criação do código fonte.
 
+O Colab permite criar diretamente notebooks que ficam salvos no Google Drive, ou também abrir notebooks diretamente do github. Exemplo: o código em [./exemplo/plot.ipynb](./exemplo/plot.ipynb) pode ser visto e executado no colab através deste link:
+
+https://colab.research.google.com/github/cgvis-inf-ufrgs/cgvis-lab3-visualizacao-template/blob/main/exemplo/plot.ipynb
+
+Você também pode abrir um notebook em um repositório github privado seu, veja instruções em:
+
+https://colab.research.google.com/github/googlecolab/colabtools/blob/main/notebooks/colab-github-demo.ipynb
+
 ## **REGRAS IMPORTANTES**
 
 > [!CAUTION]
